@@ -1,6 +1,6 @@
 ---
 name: 'Ali'
-summary: 'Testing 123123123'
+summary: 'AI Student | Interested in Crypto and Blockchain Technologies. Video games and chess are my time consumers. /Saudi Arabia '
 ---
 
 ### Here now!
